@@ -1,0 +1,14 @@
+div{
+    float: left;
+    margin: 1px;
+    width: 33%;
+}
+.div1{
+    background-color: rgb(235, 52, 52);
+}
+.div2{
+background-color: rgb(223, 223, 77);
+}
+.div3{
+background-color: rgb(65, 190, 65);
+}

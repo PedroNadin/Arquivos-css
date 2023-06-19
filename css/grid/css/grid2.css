@@ -1,0 +1,15 @@
+.grid{
+    display: grid;
+    max-width: 400px;
+    text-align: center;
+
+}
+.item{
+    background-color: crimson;
+    margin: 3px;
+    border-radius: 10px;
+}
+
+.coluna1{
+    grid-template-columns: 1fr 2fr;
+}

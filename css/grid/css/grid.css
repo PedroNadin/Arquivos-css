@@ -1,0 +1,21 @@
+.grid{
+    display: grid;
+    max-width: 00px;
+    text-align: center;
+}
+
+.coluna1{
+    grid-template-columns: 200px 200px 200px;
+}
+.coluna2{
+    grid-template-columns: 200px 200px 200px;
+}
+.coluna3{
+    grid-template-columns: 200px 200px 200px;
+}
+.item{
+    margin: 5px;
+    background-color: rgb(72, 185, 151);
+    text-align: center;
+    font-size: 1.5em;
+}
